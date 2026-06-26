@@ -2,7 +2,7 @@
 
 An interactive machine learning dashboard that predicts residential property valuations across Greater London based on structural specifications and geographic location metrics.
 
-🔗 **[Live Interactive Dashboard Link](PASTE_YOUR_STREAMLIT_URL_HERE)**
+🔗 **[Live Interactive Dashboard Link](https://house-prices-london-dwvxc8vjzqsleqkatu5teq.streamlit.app/)**
 
 ## 🚀 Project Overview
 This project applies an end-to-end data science workflow to analyze and predict property values. Using historical London housing data, I engineered custom geospatial indicators and trained a Random Forest regressor to bypass traditional linear regression limitations (such as multicollinearity between room counts and floor sizes).
